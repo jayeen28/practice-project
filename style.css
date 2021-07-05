@@ -110,3 +110,90 @@ h1.edu-head-2{
     border-bottom: 1px solid #007CED;
     width: 124px;
 }
+/**what I do and educational section end**/
+.photo img {
+    width: 100%;
+    border-radius: 10px;
+    height: 90%;
+}
+.photo {
+    width: 32.13%;
+    margin: .6%;
+}
+.photos-head {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #007CED;
+    width: 90px;
+}
+
+/**Photos section end**/
+
+.f-email, .f-phone {
+    width: 50%;
+}
+.f-phone {
+    margin-left: .6%;
+}
+.f-email {
+    margin-right: .6%;
+}
+form#form input {
+    display: block;
+    width: 100%;
+    padding: 11px 0px;
+    margin: 11px;
+    border-radius: 10px;
+    background-color: #313131;
+    color: white;
+    border: 2px solid #007CED;
+}
+form#form input::placeholder {
+    font-size: 15px;
+    font-family: 'Poppins';
+    color: #909393;
+    font-weight: 400;
+    padding-left: 10px;
+}
+input#submit:hover {
+    background-color: #007CED;
+}
+input#submit {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    letter-spacing: .5px;
+}
+h1.form-head {
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #007CED;
+    width: 90px;
+}
+h1.form-head {
+    margin: auto;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #007CED;
+    width: 350px;
+}
+form#form {
+    margin-top: 30px;
+}
+/**form section end**/
+.footer-section {
+    background-color: #212121;
+    width: 100%;
+}
+
+.footer-section h1 {
+    text-align: center;
+    padding-top: 142px;
+    color: white;
+    font-size: 27px;
+}
+
+.footer-section p {
+    text-align: center;
+    padding-top: 32px;
+    color: gray;
+    margin: 0;
+}
